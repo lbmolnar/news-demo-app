@@ -1,0 +1,36 @@
+[
+    {
+        "abstract": "The Crimson Tide will face the Georgia Bulldogs on Jan. 10 for the national championship.",
+        "web_url": "https://www.nytimes.com/2021/12/31/sports/ncaafootball/alabama-cincinnati-cotton-bowl-score.html",
+        "snippet": "The Crimson Tide will face the Georgia Bulldogs on Jan. 10 for the national championship.",
+        "lead_paragraph": "ARLINGTON, Texas \u2014 This was the moment the Cincinnati Bearcats had pined for all season. The roster is chock-full of local kids, overlooked by Ohio State in high school and largely underestimated now by the football elite, who put their place in the College Football Playoff down to a matter of necessity: The sport needed a fourth team in the field.",
+        "print_section": "B",
+        "print_page": "6",
+        "source": "The New York Times",
+        "pub_date": "2022-01-01T00:01:35+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+            "original": "By Billy Witz",
+            "person": [
+                {
+                    "firstname": "Billy",
+                    "middlename": null,
+                    "lastname": "Witz",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 1
+                }
+            ],
+            "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/50aa9e4f-5d58-5577-9492-99f66707b3ce",
+        "word_count": 1245,
+        "uri": "nyt://article/50aa9e4f-5d58-5577-9492-99f66707b3ce"
+    }
+]

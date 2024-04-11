@@ -148,6 +148,7 @@ class News implements \JsonSerializable
     public function jsonSerialize(): array
     {
         return [
+            'id' => (string) $this->uuid,
             'title' => $this->title,
             'short' => $this->short,
             'source' => $this->source,
